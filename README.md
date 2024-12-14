@@ -1,0 +1,1 @@
+This script was done by another author. Sorry, can't remember the name. I added some modifications using ChatGPT in add functionality. The goal is to be able to find the area centroid of individual objects and the global centorid of objects selected in Adobe Illustrator
